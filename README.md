@@ -1,1 +1,1 @@
-# MiniProject-1
+Facial expression recognition and mapping them to emoji
