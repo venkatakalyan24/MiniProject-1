@@ -1,1 +1,1 @@
-Facial expression recognition and mapping them to emoji
+𝗙𝗮𝗰𝗶𝗮𝗹 𝗲𝘅𝗽𝗿𝗲𝘀𝘀𝗶𝗼𝗻 𝗿𝗲𝗰𝗼𝗴𝗻𝗶𝘁𝗶𝗼𝗻 𝗮𝗻𝗱 𝗺𝗮𝗽𝗽𝗶𝗻𝗴 𝘁𝗵𝗲𝗺 𝘁𝗼 𝗲𝗺𝗼𝗷𝗶.
