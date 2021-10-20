@@ -1,1 +1,3 @@
-𝗙𝗮𝗰𝗶𝗮𝗹 𝗲𝘅𝗽𝗿𝗲𝘀𝘀𝗶𝗼𝗻 𝗿𝗲𝗰𝗼𝗴𝗻𝗶𝘁𝗶𝗼𝗻 𝗮𝗻𝗱 𝗺𝗮𝗽𝗽𝗶𝗻𝗴 𝘁𝗵𝗲𝗺 𝘁𝗼 𝗰𝗼𝗿𝗿𝗲𝘀𝗽𝗼𝗻𝗱𝗶𝗻𝗴 𝗲𝗺𝗼𝗷𝗶.
+                                              Deep learning project
+
+we  built convolutional neural networks architecture and trained the model on FER(2013) dataset for Emotion recognition and classification. After classifying the input data we have maped it to the corresponding emoji. Technologies:- Language: Python Libraries: numpy , keras , OpenCV, tkinter(for GUI)
