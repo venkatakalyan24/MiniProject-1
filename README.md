@@ -5,4 +5,4 @@
                       
 we  have built an convolutional neural networks architecture and trained the model on [FER(2013)](https://www.kaggle.com/msambare/fer2013) dataset for Emotion recognition and classification. After classifying the input data we have maped it to the corresponding emoji.
 
-Tech / Libraries used ;-  numpy , keras , OpenCV, tkinter(for GUI) 
+Tech / Libraries used :-  numpy , keras , OpenCV, tkinter(for GUI) 
